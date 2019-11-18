@@ -1,5 +1,7 @@
 # 博士论文
 
+[![Github All Releases](https://img.shields.io/github/downloads/tjiangHIT/Thesis/total.svg?logo=github&amp;label=Download)](https://github.com/tjiangHIT/Thesis/releases)
+
 ## 基于第三代测序数据的基因组结构变异检测方法研究
 
 摘  要
